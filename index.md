@@ -1,6 +1,6 @@
 # Audhy Brilliant Pratama
 
-## Welcome to GitHub Pages
+## Welcome to My GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/AudhyPratama/gh-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -25,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[My Github](https://github.com/AudhyPratama) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
